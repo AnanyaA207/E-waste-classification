@@ -1,5 +1,4 @@
 <h1 align="center">📱 E-Waste Classification</h1>
----
 
 ## 🚀 Installation
 
@@ -111,13 +110,18 @@ Improves generalization & mimics real-world conditions.
 
 ---
 
-##**Classification Report**
+## 📈 Accuracy Vs Loss curve
+
+<img width="1220" height="597" alt="Screenshot 2025-07-17 140500" src="https://github.com/user-attachments/assets/a6943cdd-04c8-4019-8c32-d62a33e3fec2" />
+
+
+## Classification Report
 
 <img width="465" height="301" alt="Picture3" src="https://github.com/user-attachments/assets/f01d9767-8b9f-4f9c-a3f9-254951d8bf05" />
 
 ---
 
-##**Confusion Matrix**
+##Confusion Matrix
 
 <img width="403" height="306" alt="Picture2" src="https://github.com/user-attachments/assets/22b3506c-aeb0-45df-a36d-68917d515d71" />
 
@@ -140,7 +144,7 @@ Interactive interface with:
 
 ## 🔚 Conclusion
 
-> This project blends deep learning and environmental consciousness, helping users **identify**, **sort**, and **safely dispose** of e-waste.
+This project blends deep learning and environmental consciousness, helping users **identify**, **sort**, and **safely dispose** of e-waste.
 
 ---
 
