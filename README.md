@@ -121,7 +121,7 @@ Improves generalization & mimics real-world conditions.
 
 ---
 
-##Confusion Matrix
+## Confusion Matrix
 
 <img width="403" height="306" alt="Picture2" src="https://github.com/user-attachments/assets/22b3506c-aeb0-45df-a36d-68917d515d71" />
 
@@ -135,13 +135,6 @@ Upload an image → Get prediction → Get **sorting instructions** instantly.
 
 ---
 
-Interactive interface with:
-- 📸 Upload support
-- 🧠 Auto classification
-- 📝 Formatted markdown output
-
----
-
 ## 🔚 Conclusion
 
 This project blends deep learning and environmental consciousness, helping users **identify**, **sort**, and **safely dispose** of e-waste.
@@ -150,7 +143,6 @@ This project blends deep learning and environmental consciousness, helping users
 
 ## 💡 Future Plans
 
-- 🌍 Deploy on Hugging Face / Streamlit
 - 📦 Add more waste categories
 - 📷 Object detection for multiple items
 
