@@ -8,6 +8,8 @@
 
 ---
 
+📥 **Dataset Download:** [Click here to access the E-Waste Image Dataset on Kaggle](https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset)
+
 ## 🧾 Project Structure
 
 ```plaintext
