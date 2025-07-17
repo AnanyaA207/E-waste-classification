@@ -1,6 +1,4 @@
-<h1 align="center">📱 Smart E-Waste Classifier</h1>
-<p align="center">Deep learning meets sustainability — Classify e-waste images and get instant, eco-friendly disposal instructions ♻️</p>
-
+<h1 align="center">📱 E-Waste Classification</h1>
 ---
 
 ## 🚀 Installation
@@ -113,38 +111,25 @@ Improves generalization & mimics real-world conditions.
 
 ---
 
+##**Classification Report**
+
+<img width="465" height="301" alt="Picture3" src="https://github.com/user-attachments/assets/f01d9767-8b9f-4f9c-a3f9-254951d8bf05" />
+
+---
+
+##**Confusion Matrix**
+
+<img width="403" height="306" alt="Picture2" src="https://github.com/user-attachments/assets/22b3506c-aeb0-45df-a36d-68917d515d71" />
+
+---
+
 ## 🌐 Gradio App
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="300"/>
-</p>
+<img width="1034" height="520" alt="Picture1" src="https://github.com/user-attachments/assets/3c2de5d7-aebf-4b5e-ac5b-9911ab69c8d7" />
 
 Upload an image → Get prediction → Get **sorting instructions** instantly.
 
-### 💬 Output Sample
-
-```markdown
-## 🧠 Prediction Result
-Item: `Mobile`
-Confidence: `0.98`
-
 ---
-
-## ♻️ Sorting Instructions
-👉 Backup data and perform a factory reset  
-👉 Remove SIM and SD card  
-👉 Drop off at recycling center  
-👉 Valuable metals inside — do not trash  
-👉 Cashback/exchange programs available  
-```
-
----
-
-## 🧪 Launch the App
-
-```python
-demo.launch()
-```
 
 Interactive interface with:
 - 📸 Upload support
@@ -155,22 +140,13 @@ Interactive interface with:
 
 ## 🔚 Conclusion
 
-> This project blends deep learning and environmental consciousness — helping users **identify**, **sort**, and **safely dispose** of e-waste.
+> This project blends deep learning and environmental consciousness, helping users **identify**, **sort**, and **safely dispose** of e-waste.
 
 ---
 
 ## 💡 Future Plans
 
 - 🌍 Deploy on Hugging Face / Streamlit
-- 🌐 Multilingual instructions
 - 📦 Add more waste categories
 - 📷 Object detection for multiple items
 
----
-
-## 🤝 Credits
-
-Made with ❤️ by **Ananya**  
-Powered by **TensorFlow**, **Gradio**, and a mission to make tech cleaner.
-
----
