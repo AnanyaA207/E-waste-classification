@@ -1,1 +1,1 @@
-# E-waste-classification
+# E waste classification
